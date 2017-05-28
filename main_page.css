@@ -43,3 +43,6 @@ max-width: 1900px;
   bottom: -250px; 
 font-family: 'Exo 2', sans-serif;
 }
+span{
+  z-index: 2;
+}
